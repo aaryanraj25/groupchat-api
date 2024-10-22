@@ -1,0 +1,8 @@
+{
+  "user1": {
+    "id": "user1",
+    "username": "john",
+    "email": "john@example.com",
+    "org_ids": []
+  }
+}
